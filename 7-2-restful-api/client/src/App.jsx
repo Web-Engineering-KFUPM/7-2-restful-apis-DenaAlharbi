@@ -46,6 +46,8 @@ LAB SETUP INSTRUCTIONS
  *
  *  Hint:
  *    await mongoose.connect(process.env.MONGO_URL);
+ *
+ *
  */
 
 /** =================================================================
